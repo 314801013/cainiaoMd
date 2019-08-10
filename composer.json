@@ -1,0 +1,11 @@
+{
+    "name": "xiaoqiangqiang/cainiao-md",
+    "description": "菜鸟电子面单",
+    "authors": [
+        {
+            "name": "xiaoqinagMac",
+            "email": "314801013@qq.com"
+        }
+    ],
+    "require": {}
+}
